@@ -22,11 +22,15 @@
     "tailwindcss": "^1.6.0",
     "typescript": "~3.7.2"
   },
+  "devDependencies": {
+    "generate-react-cli": "^5.0.1"
+  },
   "scripts": {
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "generate": "./node_modules/generate-react-cli/bin/generate-react component"
   },
   "eslintConfig": {
     "extends": "react-app"

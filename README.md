@@ -5,6 +5,7 @@
 - CRA custom config by [CRACO](https://github.com/gsoft-inc/craco) 
 - Style Class naming convention [BEM](http://getbem.com/naming/)
 - CSS preprocessor [SASS](https://sass-lang.com/)
+- Component generation tool [generate-react-cli](https://github.com/arminbro/generate-react-cli)
 ---------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
