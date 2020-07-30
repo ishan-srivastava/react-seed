@@ -7,7 +7,13 @@
 - CSS preprocessor [SASS](https://sass-lang.com/)
 - Component boilerplate generation tool [generate-react-cli](https://github.com/arminbro/generate-react-cli)
 ---------
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Setup
+Clone the project, navigate to the project directory and run the following command to download dependencies:
+```
+npm install
+```
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -24,4 +30,6 @@ You will also see any lint errors in the console.
 
 To generate the component boilerplate code (React.FC)
 eg. `npm run generate Header`
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
