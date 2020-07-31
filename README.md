@@ -12,7 +12,7 @@ Clone the project, navigate to the project directory and run the following comma
 ```
 npm install
 ```
-
+It is recommended to use `npm` as a dependency manager for this project.
 
 ## Available Scripts
 
