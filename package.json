@@ -14,7 +14,7 @@
     "@types/react-dom": "^16.9.0",
     "autoprefixer": "^9.8.5",
     "navi": "^0.14.0",
-    "node-sass": "4.14.1",
+    "node-sass": "7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1p",
     "react-navi": "^0.14.4",
