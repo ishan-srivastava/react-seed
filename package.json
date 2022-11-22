@@ -18,7 +18,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1p",
     "react-navi": "^0.14.4",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "tailwindcss": "^1.6.0",
     "typescript": "~3.7.2"
   },
